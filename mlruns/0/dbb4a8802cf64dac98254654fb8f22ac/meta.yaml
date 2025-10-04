@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/kaiqu/OneDrive/Desktop/MLOPS/mlruns/0/dbb4a8802cf64dac98254654fb8f22ac/artifacts
+end_time: 1758247057031
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: dbb4a8802cf64dac98254654fb8f22ac
+run_name: experiment_mlops_ead
+run_uuid: dbb4a8802cf64dac98254654fb8f22ac
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758247043498
+status: 3
+tags: []
+user_id: kaiqu
